@@ -1,0 +1,2 @@
+REVIEWBOARD_URL = 'http://ec2-54-174-70-62.compute-1.amazonaws.com:80/'
+REPOSITORY = 'code_deploy_example'
